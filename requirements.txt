@@ -1,8 +1,8 @@
 # dash is required to call `build:py`
-dash==0.39.0
-dash-core-components==0.23.0
-dash-html-components==0.44.0
-dash-renderer==0.20.0
+dash
+dash-core-components
+dash-html-components
+dash-renderer
 plotly==3.7.1
 numpy==1.16.2
 pandas==0.24.2
